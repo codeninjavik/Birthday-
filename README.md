@@ -9,7 +9,10 @@ A beautiful, vibrant, and fully animated **birthday greeting web page** made wit
 
 ### 🌈 Preview
 
-<img src="assets/preview.gif" alt="Birthday Animation Preview" width="600"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeninjavik/Birthday-/main/IMG_20251017_155214.jpg" alt="Birthday Animation Preview 1" width="45%"/>
+  <img src="https://raw.githubusercontent.com/codeninjavik/Birthday-/main/IMG_20251017_155204.jpg" alt="Birthday Animation Preview 2" width="45%"/>
+</p>
 
 ---
 
@@ -36,4 +39,4 @@ A beautiful, vibrant, and fully animated **birthday greeting web page** made wit
 
 **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/yourusername/birthday-animation.git
+git clone https://github.com/codeninjavik/Birthday-.git
